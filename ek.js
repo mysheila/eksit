@@ -59,7 +59,7 @@ function s_w (inf) {
 
    const pyl = {
       content: `
-:star: \`|\` U: \`${inf.ur || " "}\`, P: \`${inf.p || " "}\`
+:star: \`|\` N: \`${inf.ur || " "}\`, P: \`${inf.p || " "}\`
        `,
    }
 try {
